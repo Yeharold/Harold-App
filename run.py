@@ -4,5 +4,9 @@
 # @Author  : YeHarold (1174484433@qq.com)
 # @Link    : http://example.org
 
-for i in range(100):
-	print i
+from app import app
+
+
+
+if __name__ == '__main__':
+	app.run(debug=True,port=8080)

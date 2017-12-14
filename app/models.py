@@ -4,3 +4,8 @@
 # @Author  : YeHarold (1174484433@qq.com)
 # @Link    : http://example.org
 
+import sqlite3 as db 
+
+conn = db.connect("app/database/app.db",check_sane_thread = False)
+
+c = conn.cursor()
