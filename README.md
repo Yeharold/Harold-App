@@ -4,11 +4,12 @@
 
 
 
-### step1:	cd to project Harold-App
+### step1:	git clone 到本地
 
-### step2: 	open run.py 
+### step2:  进入Harold-app文件目录
 
-### step3:	run
+### step3:  Python打开run.py文件,运行
 
+### step4:  打开浏览器访问 localhost:8080/index
 
 
