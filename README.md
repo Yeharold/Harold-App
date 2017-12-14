@@ -1,11 +1,14 @@
-to learn git and github
+# @Date    : 2017-12-14 14:58:35
+# @Author  : YeHarold (1174484433@qq.com)
+# @Link    : https://github.com/Yeharold
 
-hello python you are so beautiful
 
-git commit -m "fisrt commit"
 
-git remote add origin https://github.com/Yeharold/Harold-App.git
+step1:	cd to project Harold-App
 
-git push -u origin master
+step2: 	open run.py 
 
-test
+step3:	run
+
+
+
